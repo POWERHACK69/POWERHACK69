@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @POWERHACK69
-- 👀 I’m interested in Game developement
-- 🌱 I’m currently learning gdscript, python, C#
-- 💞️ I’m looking to collaborate on a game project
+- 👀 I’m interested in Game development, Software development and web development
+- 🌱 I’m currently learning gdscript, python, C#, javascript, HTML & CSS
+- 💞️ I’m looking to collaborate on a game and other project
 - 📫 How to reach me? Try #POWERHACK8342 on discord!
 
 <!---
